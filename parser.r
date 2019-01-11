@@ -3,7 +3,7 @@
 ##  Name: get_average_temperature
 ##  Function: Transforms raw text files containing the average climate data, provided by the National Resource
 ##            Conservation service, into a tidy DataFrame
-##  Usage:  df <- get_average_temperature("https://www.wcc.nrcs.usda.gov/ftpref/data/climate/table/temperature/history/alaska/33j01s_tavg.txt) 
+##  Usage: df <- get_average_temperature("https://www.wcc.nrcs.usda.gov/ftpref/data/climate/table/temperature/history/alaska/33j01s_tavg.txt) 
 ##        
 ################################################################################################################################################
 
