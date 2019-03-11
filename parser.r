@@ -14,9 +14,9 @@
 ## cat(paste0(rep(c(1:9,"+"),8), collapse=""))
 ####################################################################################
 
-library(tidyverse)
-
 get_average_temperature <- function(file_url){
+  
+  library(tidyverse)
   
   #read file 
   txt_file <- readLines(file_url) 
